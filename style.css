@@ -5,6 +5,7 @@ body{
 }
 .container{
     margin: 3rem auto;
+    position: relative;
     background-color: white;
     border: 1px solid black;
     border-radius: 20px;
@@ -26,7 +27,7 @@ body{
 }
 form li label{
     cursor: pointer;
-    
+
 }
 .btn{
     background: transparent;
